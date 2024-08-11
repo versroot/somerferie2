@@ -4,23 +4,23 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 const images = [
   {
     preview:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg?raw=true',
     original:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg?raw=true',
     description: 'Gdansk--Polen',
   },
   {
     preview:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg?raw=true',
     original:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg?raw=true',
     description: 'Alania--Tyrkiet',
   },
   {
     preview:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg?raw=true',
     original:
-      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg',
+      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg?raw=true',
     description: 'Aarhus--Denmark',
   },
 ];
