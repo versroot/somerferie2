@@ -3,18 +3,24 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const images = [
   {
-    preview: '../img/gdansk1.jpg',
-    original: '../img/gdansk1.jpg',
+    preview:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg',
+    original:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/gdansk1.jpg',
     description: 'Gdansk--Polen',
   },
   {
-    preview: '../img/turkey1.jpg',
-    original: '../img/turkey1.jpg',
+    preview:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg',
+    original:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/turkey1.jpg',
     description: 'Alania--Tyrkiet',
   },
   {
-    preview: '../img/aarhus1.jpg',
-    original: '../img/aarhus1.jpg',
+    preview:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg',
+    original:
+      'https://github.com/versroot/somerferie2/blob/main/src/img/aarhus1.jpg',
     description: 'Aarhus--Denmark',
   },
 ];
