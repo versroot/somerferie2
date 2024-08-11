@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/sommerferie/",
+    "build": "vite build --base=/somerferie2/",
     "preview": "vite preview"
   },
   "devDependencies": {
